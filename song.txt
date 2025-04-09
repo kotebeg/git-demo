@@ -11,3 +11,4 @@ line 10
 ------------------------------
 testing git reverse
 this text is added under feature branch
+2 edtion in feature branch
