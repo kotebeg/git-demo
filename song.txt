@@ -12,3 +12,5 @@ line 10
 testing git reverse
 this text is added under feature branch
 
+add from feture 1
+add from feature 2
