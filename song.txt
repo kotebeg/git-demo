@@ -14,3 +14,6 @@ this text is added under feature branch
 add to main 1
 add to amin 2
 add to main 3
+
+add from feture 1
+add from feature 2
