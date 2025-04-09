@@ -12,3 +12,5 @@ line 10
 testing git reverse
 this text is added under feature branch
 add to main 1
+add to amin 2
+add to main 3
